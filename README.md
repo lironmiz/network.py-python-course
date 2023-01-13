@@ -30,4 +30,4 @@ Introductory course in the field of server and client side programming in python
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
-<img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif">
+<img src="https://media.giphy.com/media/rgzOwma0qMbM3x7Fqi/giphy-downsized.gif">
