@@ -27,6 +27,11 @@ Introductory course in the field of server and client side programming in python
 5. A trivia game project used with a server and a client and a protocol built from scratch that summarizes what is learned in the course
 
 ## My progress graph in the course 🌟
+![image](https://user-images.githubusercontent.com/91504420/212348940-9aaa643c-e3af-41ce-94d5-1618cbe52b27.png)
+
+## my solution to Easter Egg problem 🥚
+
+![WhatsApp Image 2023-01-13 at 16 43 04](https://user-images.githubusercontent.com/91504420/212350319-cc6637d1-9ed3-40aa-8d9d-8703c35980dc.jpg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
