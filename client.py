@@ -13,7 +13,7 @@ def build_and_send_message(conn, code, data):
     Returns: None
     """
     full_msg = chatlib.build_message(code, data)
-    conn.send(full_msg.encode())
+    # conn.send(full_msg.encode())
     print("\n*massage sent*\ncommand:", code, "\ndata:", data, "\nsend:", full_msg)
 
 def recv_message_and_parse(conn):
