@@ -19,20 +19,21 @@ Introductory course in the field of server and client side programming in python
   </a>
 </p>
 
-## Course Material 🫡
-1. Introduction to computer networks
-2. Programming a TCP socket and creating a client server
-3. Programming a UDP socket and creating a client server
-4. A multiplayer TCP server
-5. A trivia game project used with a server and a client and a protocol built from scratch that summarizes what is learned in the course
+![NetworkingGIF](https://user-images.githubusercontent.com/91504420/213188528-98db3341-9596-4e30-b073-124bd3c56d46.gif)
 
-## My progress graph in the course 🌟
+
+# Course Material 🫡
+  + Introduction to computer networks
+  + Programming a TCP socket and creating a client server
+  + Programming a UDP socket and creating a client server
+  + A multiplayer TCP server
+  + A trivia game project used with a server and a client and a protocol built from scratch that summarizes what is learned in the course
+
+# My Progress Graph In The Course 🌟
 ![image](https://user-images.githubusercontent.com/91504420/212348940-9aaa643c-e3af-41ce-94d5-1618cbe52b27.png)
 
-## my solution to Easter Egg problem 🥚
+# My Solution To Easter Egg Problem 🥚
 
 ![WhatsApp Image 2023-01-13 at 16 43 04](https://user-images.githubusercontent.com/91504420/212350319-cc6637d1-9ed3-40aa-8d9d-8703c35980dc.jpg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
-
-<img src="https://media.giphy.com/media/rgzOwma0qMbM3x7Fqi/giphy-downsized.gif">
