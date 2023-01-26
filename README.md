@@ -1,6 +1,6 @@
 <h1 align="center"> 🎓 network.py-python-course 🎓 </h1>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="80" width="100%">
 
 Introductory course in the field of server and client side programming in python and  also network of the cyber education center from campus.gov.il. Includes a final project of a trivia game using a server and a client.  
 
@@ -21,7 +21,6 @@ Introductory course in the field of server and client side programming in python
 
 ![NetworkingGIF](https://user-images.githubusercontent.com/91504420/213188528-98db3341-9596-4e30-b073-124bd3c56d46.gif)
 
-
 # Course Material 🫡
   + Introduction to computer networks
   + Programming a TCP socket and creating a client server
@@ -36,4 +35,4 @@ Introductory course in the field of server and client side programming in python
 
 ![WhatsApp Image 2023-01-13 at 16 43 04](https://user-images.githubusercontent.com/91504420/212350319-cc6637d1-9ed3-40aa-8d9d-8703c35980dc.jpg)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="80" width="100%">
